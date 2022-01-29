@@ -28,7 +28,7 @@ then we'll create a gauge chart that displays the weekly washing frequency's val
 
 ### Summary:
 
- we'll add three Bootstrap to customize the webpage for our dashboard and show in the picture how the plots change by changing ID.
+ we'll add three Bootstrap to customize the webpage for our dashboard and show in the picture how the plots change by changing ID. my I/O Webpage is https://samiramghd.github.io/Bacterial_Data_Visualization/
 
  <img src="https://github.com/samiramghd/Bacterial_Data_Visualization/blob/main/static/images/style.PNG" width=60% height=40%>
 
