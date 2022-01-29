@@ -15,21 +15,21 @@ Using bacterial data collected from volunteers, We have a completed panel for de
 
 We'll create a horizontal bar chart to display the top 10 bacterial species (OTUs) when an individual’s ID is selected from the dropdown menu on the webpage. The horizontal bar chart will display the sample_values as the values, the otu_ids as the labels, and the otu_labels as the hover text for the bars on the chart. the result is shown in the below picture. 
 
-![This is an image](del1.png)
+![This is an image](https://github.com/samiramghd/Bacterial_Data_Visualization/blob/main/static/images/del1.PNG)
 
 and then we'll create a bubble chart that will display, when an individual’s ID is selected.
 
-![This is an image](del2.png)
+![This is an image](https://github.com/samiramghd/Bacterial_Data_Visualization/blob/main/static/images/del2.PNG)
 
 then we'll create a gauge chart that displays the weekly washing frequency's value, and display the value as a measure from 0-10 on the progress bar in the gauge chart when an individual ID is selected from the dropdown menu. in the picture below we can see the final results.
 
-![This is an image](final.png)
+![This is an image](https://github.com/samiramghd/Bacterial_Data_Visualization/blob/main/static/images/final.PNG)
 
 
 ### Summary:
 
  we'll add three Bootstrap to customize the webpage for our dashboard and show in the picture how the plots change by changing ID.
 
- ![This is an image](style.png)
+ <img src="https://github.com/samiramghd/Bacterial_Data_Visualization/blob/main/static/images/style.PNG" width=60% height=40%>
 
- ![This is an image](change.png)
+ ![This is an image](https://github.com/samiramghd/Bacterial_Data_Visualization/blob/main/static/images/change.PNG)
