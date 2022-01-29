@@ -1,0 +1,13 @@
+body {
+  color: #000;
+  background-color: rgb(245, 243, 243);
+}
+.jumbotron {
+  background-image: url("../images/images.jfif");
+  background-size: 100% 100%;
+  text-align: center;
+}
+.tag {
+  font-family: inherit; 
+  font-size: 1rem;
+}  
